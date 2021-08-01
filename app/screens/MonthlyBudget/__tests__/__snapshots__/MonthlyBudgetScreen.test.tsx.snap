@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MonthlyBudgetScreen renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "paddingHorizontal": 16,
+    }
+  }
+>
+  <RCTScrollView>
+    <View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "paddingTop": 26,
+          }
+        }
+      >
+        <Text.Primary
+          bold={true}
+        >
+          Slide to set your budget
+        </Text.Primary>
+      </View>
+      <RNCSlider
+        disabled={false}
+        enabled={true}
+        inverted={false}
+        maximumTrackTintColor="#CED4DA"
+        maximumValue={1000}
+        minimumTrackTintColor="#4BB377"
+        minimumValue={0}
+        onChange={null}
+        onRNCSliderSlidingComplete={[Function]}
+        onRNCSliderSlidingStart={null}
+        onRNCSliderValueChange={null}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        step={0}
+        style={
+          Array [
+            Object {
+              "height": 40,
+            },
+            Object {
+              "marginTop": 14,
+            },
+          ]
+        }
+        thumbImage={
+          Object {
+            "__packager_asset": true,
+            "height": 1,
+            "scale": 1,
+            "uri": "file://assets/full/path/to/directory/name.type",
+            "width": 1,
+          }
+        }
+        thumbTintColor="#4BB377"
+        value={0}
+      />
+      <Text.Primary
+        lightGray={true}
+      >
+        NaN kg CO2eq
+      </Text.Primary>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "marginVertical": 20,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "marginBottom": 16,
+            }
+          }
+        >
+          <Text.Primary
+            bold={true}
+          >
+            Average monthly emissions per capita in a sample of countries 
+            <Ionicons
+              color="#4BB377"
+              name="md-information-circle"
+              onPress={[Function]}
+              size={26}
+            />
+          </Text.Primary>
+        </View>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          Luxembourg : 3.5 tons
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          United States : 1.5 tons
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          Japan : 900 kg
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          Sweden : 595 kg
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          France : 575 kg
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          China : 522 kg
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          Brazil : 208 kg
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          India : 139 kg
+        </Text.Secondary>
+        <Text.Secondary
+          center={true}
+          style={
+            Object {
+              "marginBottom": 6,
+            }
+          }
+        >
+          Ethiopia : 8.3 kg
+        </Text.Secondary>
+        <View
+          style={
+            Object {
+              "marginBottom": 80,
+              "marginTop": 16,
+            }
+          }
+        >
+          <Text.Secondary
+            center={true}
+          >
+            If you wish to respect the Paris agreement (to keep the rise in global average temperature below 2 degrees), set your monthly budget at
+            <Text.Secondary
+              bold={true}
+              darkGray={true}
+            >
+               166 kg CO2
+            </Text.Secondary>
+          </Text.Secondary>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+  <View
+    style={
+      Object {
+        "bottom": 20,
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+      }
+    }
+  >
+    <Button.Primary
+      onPress={[Function]}
+      textType="Primary"
+    >
+      <Text.Primary
+        bold={true}
+        center={true}
+        white={true}
+      >
+        Save
+      </Text.Primary>
+    </Button.Primary>
+  </View>
+</View>
+`;

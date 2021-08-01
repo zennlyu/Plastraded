@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly TextInput 1`] = `
+<View
+  style={
+    Object {
+      "marginHorizontal": 16,
+      "marginTop": 12,
+    }
+  }
+>
+  <TouchableOpacity
+    activeOpacity={1}
+    onPress={[Function]}
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginBottom": 14,
+      }
+    }
+  >
+    <Text.H3
+      green={false}
+    >
+      title
+    </Text.H3>
+  </TouchableOpacity>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="placeholder"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "#CED4DA",
+        "borderRadius": 20,
+        "borderWidth": 2,
+        "height": 40,
+        "marginBottom": 8,
+        "paddingHorizontal": 16,
+      }
+    }
+    underlineColorAndroid="transparent"
+    value="value"
+  />
+</View>
+`;
+
+exports[`renders correctly TextInput if optional 1`] = `
+<View
+  style={
+    Object {
+      "marginHorizontal": 16,
+      "marginTop": 12,
+    }
+  }
+>
+  <TouchableOpacity
+    activeOpacity={1}
+    onPress={[Function]}
+    style={
+      Object {
+        "flexDirection": "row",
+        "marginBottom": 14,
+      }
+    }
+  >
+    <Text.H3
+      green={false}
+    >
+      title
+    </Text.H3>
+  </TouchableOpacity>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="placeholder"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "#CED4DA",
+        "borderRadius": 20,
+        "borderWidth": 2,
+        "height": 40,
+        "marginBottom": 8,
+        "paddingHorizontal": 16,
+      }
+    }
+    underlineColorAndroid="transparent"
+    value="value"
+  />
+</View>
+`;

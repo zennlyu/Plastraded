@@ -1,0 +1,342 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SettingsScreen renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "paddingHorizontal": 16,
+    }
+  }
+>
+  <View>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        About
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        My data
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        Notifications
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        My Location
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        Support us!
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        NMF.earth
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        Roadmap
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        Help translation
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+          Object {
+            "borderBottomColor": "#F0F0F0",
+            "borderBottomWidth": 1.6,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        Feedback
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingVertical": 18,
+          },
+        ]
+      }
+    >
+      <Text.Secondary
+        numberOfLines={1}
+      >
+        Terms of use
+      </Text.Secondary>
+      <Ionicons
+        color="#9CA6A0"
+        name="ios-chevron-forward-outline"
+        size={14}
+      />
+    </TouchableOpacity>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={1}
+        style={
+          Object {
+            "width": "50%",
+          }
+        }
+      />
+    </View>
+    <Text.Tertiary
+      bold={true}
+      lightGray={true}
+      style={
+        Object {
+          "marginBottom": 24,
+          "textAlign": "center",
+        }
+      }
+    >
+      Version [missing %{version} value]
+    </Text.Tertiary>
+    <SocialMedia />
+  </View>
+</RCTScrollView>
+`;
