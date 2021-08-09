@@ -1,6 +1,6 @@
 # To-Do List
 
-##### 需要的 ICON
+##### 1. 需要给产品原型设计收集以下主题的图标
 
 - [ ] Tracker
   - [ ] Transport
@@ -26,3 +26,5 @@
 - [ ] Other Items
 - [ ] Promotions
   - [ ] Posters
+
+2. 确定功能文档
