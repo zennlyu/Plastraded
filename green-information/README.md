@@ -49,3 +49,6 @@
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
 
+## The NIR-SWIR tactics
+
+- For cost, it seems that NIR Camera plus SWIR lens is way cheaper than the cameras like Bobcat32
