@@ -1,5 +1,5 @@
 <h1>PLSTRD.Plastraded 🌱🌱</h1>
-<h3 align="right">——— A Platform where to advocate plastic reusability.</h3>
+<h3>——— A Platform where to advocate plastic reusability.</h3>
 
 <br />
 
