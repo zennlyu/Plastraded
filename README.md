@@ -18,7 +18,9 @@
 
 ### 📊 Data source
 
-碳排放计算数据参考于 [carbon footprint repo](https://github.com/NMF-earth/carbon-footprint) 二维码扫描功能调用 [Open Food Facts](https://world.openfoodfacts.org/) API.
+碳排放计算数据参考于 [carbon footprint repo](https://github.com/NMF-earth/carbon-footprint) 
+
+二维码扫描功能调用了 [Open Food Facts](https://world.openfoodfacts.org/) API.
 
 
 
