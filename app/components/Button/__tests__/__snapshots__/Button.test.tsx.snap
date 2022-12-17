@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly Primary Button with Secondary font 1`] = `
+<TouchableOpacity
+  onPress={[Function]}
+  style={
+    Array [
+      Array [
+        Object {
+          "paddingHorizontal": 36,
+        },
+        Object {
+          "backgroundColor": "#4BB377",
+        },
+        undefined,
+      ],
+      Object {
+        "borderRadius": 40,
+        "paddingVertical": 12,
+      },
+    ]
+  }
+  textType="Secondary"
+>
+  <Text.Secondary>
+    test
+  </Text.Secondary>
+</TouchableOpacity>
+`;
+
+exports[`renders correctly Secondary Button with Secondary font 1`] = `
+<TouchableOpacity
+  onPress={[Function]}
+  style={
+    Array [
+      Array [
+        Object {
+          "paddingHorizontal": 36,
+        },
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#4BB377",
+          "borderWidth": 2.5,
+        },
+        undefined,
+      ],
+      Object {
+        "borderRadius": 40,
+        "paddingVertical": 12,
+      },
+    ]
+  }
+  textType="Secondary"
+>
+  <Text.Secondary>
+    test
+  </Text.Secondary>
+</TouchableOpacity>
+`;
+
+exports[`renders correctly full width Primary Button with Primary font 1`] = `
+<TouchableOpacity
+  fullWidth={true}
+  onPress={[Function]}
+  style={
+    Array [
+      Array [
+        Object {
+          "paddingHorizontal": 36,
+        },
+        Object {
+          "backgroundColor": "#4BB377",
+        },
+        undefined,
+        Object {
+          "alignItems": "center",
+          "paddingHorizontal": 0,
+          "width": "100%",
+        },
+      ],
+      Object {
+        "borderRadius": 42,
+        "paddingVertical": 12,
+      },
+    ]
+  }
+  textType="Primary"
+>
+  <Text.Primary>
+    test
+  </Text.Primary>
+</TouchableOpacity>
+`;
+
+exports[`renders correctly full width Primary Button with black color 1`] = `
+<TouchableOpacity
+  black={true}
+  fullWidth={true}
+  onPress={[Function]}
+  style={
+    Array [
+      Array [
+        Object {
+          "paddingHorizontal": 36,
+        },
+        Object {
+          "backgroundColor": "#4BB377",
+        },
+        undefined,
+        Object {
+          "alignItems": "center",
+          "paddingHorizontal": 0,
+          "width": "100%",
+        },
+        Object {
+          "backgroundColor": "#111714",
+        },
+      ],
+      Object {
+        "borderRadius": 42,
+        "paddingVertical": 12,
+      },
+    ]
+  }
+  textType="Primary"
+>
+  <Text.Primary>
+    test
+  </Text.Primary>
+</TouchableOpacity>
+`;
+
+exports[`renders correctly full width Primary Button with red color 1`] = `
+<TouchableOpacity
+  fullWidth={true}
+  onPress={[Function]}
+  red={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "paddingHorizontal": 36,
+        },
+        Object {
+          "backgroundColor": "#4BB377",
+        },
+        undefined,
+        Object {
+          "alignItems": "center",
+          "paddingHorizontal": 0,
+          "width": "100%",
+        },
+        Object {
+          "backgroundColor": "#FA4646",
+        },
+      ],
+      Object {
+        "borderRadius": 42,
+        "paddingVertical": 12,
+      },
+    ]
+  }
+  textType="Primary"
+>
+  <Text.Primary>
+    test
+  </Text.Primary>
+</TouchableOpacity>
+`;
+
+exports[`renders correctly full width Secondary Button with Primary font 1`] = `
+<TouchableOpacity
+  fullWidth={true}
+  onPress={[Function]}
+  style={
+    Array [
+      Array [
+        Object {
+          "paddingHorizontal": 36,
+        },
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#4BB377",
+          "borderWidth": 2.5,
+        },
+        undefined,
+        Object {
+          "alignItems": "center",
+          "paddingHorizontal": 0,
+          "width": "100%",
+        },
+      ],
+      Object {
+        "borderRadius": 42,
+        "paddingVertical": 12,
+      },
+    ]
+  }
+  textType="Primary"
+>
+  <Text.Primary>
+    test
+  </Text.Primary>
+</TouchableOpacity>
+`;

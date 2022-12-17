@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ComingSoonScreen renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+      "paddingHorizontal": 16,
+    }
+  }
+>
+  <View>
+    <StickersImage
+      sticker="bike"
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "marginTop": 22,
+        }
+      }
+    >
+      <Text.Primary
+        style={
+          Object {
+            "paddingVertical": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        This feature is under development and will be available soon.
+      </Text.Primary>
+      <Text.Primary
+        style={
+          Object {
+            "paddingVertical": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        In the mean time, follow us on social media!
+      </Text.Primary>
+    </View>
+    <SocialMedia />
+  </View>
+</RCTScrollView>
+`;
